@@ -8,9 +8,9 @@ def te(*data_s):
 
 
 
-# te((1,2),(3,4))print(column)
+te((1,2),(3,4))
 s = 'ab cd '
 print(s)
 
-b = s.strip()
-print(b)
+# b = s.strip()
+# print(b)
